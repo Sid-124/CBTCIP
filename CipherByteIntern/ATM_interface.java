@@ -67,7 +67,7 @@ class ATM {
     }
 }
 
-public class Main {
+public class ATM_interface {
     public static void main(String[] args) {
         // Mock user data
         User user = new User("20034", "1509");
